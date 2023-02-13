@@ -10,3 +10,5 @@ dict2=dict1
 dict2['value']=22
 print(dict1,dict2)
 print(id(dict1)==id(dict2))
+
+#pointer are locations of values every 
